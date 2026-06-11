@@ -1,6 +1,6 @@
 # Hi, I'm Pendela Sindhu 👋
 
-🎓 Final Year B.Tech Information Technology Student
+🎓 GRADUATED in 2026 , B.Tech Information Technology Student
 
 💻 Skills
 
