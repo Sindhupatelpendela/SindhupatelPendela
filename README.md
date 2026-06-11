@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Pendela Sindhu 👋
 
-<!--
-**Sindhupatelpendela/SindhupatelPendela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* PHP
+* MySQL
+* Git & GitHub
+
+🚀 Projects
+
+* Smart Catering System
+* Financial Fraud Detection System
+* Team Task Manager
+* Student Portal
+
+🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Full Stack Development
+* React.js
+
+📫 Contact Me
+Email: [sindhupatel0002@gmail.com](mailto:sindhupatel0002@gmail.com)
+
+💼 Open to Internships and Full-Time Opportunities
+
+⭐ Passionate about Web Development and Software Development
+
